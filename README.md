@@ -1,4 +1,4 @@
-# W19-CourseProject-MangoDB
+# CourseProject-W19-MangoDB
 
 This is course project of Juncheng An <Winter 2019 - EECS 484 Database Management - Project 4>. 
   
